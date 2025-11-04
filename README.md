@@ -80,9 +80,7 @@ INSERT LIST OF WHAT I LEARNED MAKING THIS PROJECT
 
 ## Design Reference & Tools
 
-- JPG design image
 - Figma
-- PerfectPixel
 
 ---
 
