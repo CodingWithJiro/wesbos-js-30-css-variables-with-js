@@ -3,7 +3,7 @@
     scroll-behavior: smooth;
   }
 
-  .theme {
+  /* .theme {
     transition: box-shadow 0.3s ease-in-out;
   }
 
@@ -17,7 +17,7 @@
 
   .theme__icon {
     transition: opacity 0.3s ease-in-out;
-  }
+  } */
 }
 
 @media (prefers-reduced-motion: reduce) {
