@@ -19,15 +19,15 @@
 [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-00B0FF?style=for-the-badge&logo=lighthouse&logoColor=white)](./assets/downloads/lighthouse-performance-report.pdf)
 
 ![Status](https://img.shields.io/badge/status-incomplete-orange)
-![Learning Path](https://img.shields.io/badge/learning%20path-month%208-blue)
+![Learning Path](https://img.shields.io/badge/learning%20path-month%209-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.wesbos-js-30-css-variables-with-js&left_text=repo%20views)
 
 ## ADD PROJECT SUBTITLE
 
-| _Mobile Preview (375x812)_                                   | _Desktop Preview (1440x960)_                                    |
-| ------------------------------------------------------------ | --------------------------------------------------------------- |
-| ![Mobile](./assets/img/site-preview-mobile_375x812.png)      | ![Desktop](./assets/img/site-preview-desktop_1440x960.png)      |
-| ![Mobile](./assets/img/site-preview-mobile-dark_375x812.png) | ![Desktop](./assets/img/site-preview-desktop-dark_1440x960.png) |
+| _Mobile Preview (375x812)_                                  | _Desktop Preview (1440x960)_                                   |
+| ----------------------------------------------------------- | -------------------------------------------------------------- |
+| ![Mobile](/public/img/site-preview-mobile_375x812.png)      | ![Desktop](/public/img/site-preview-desktop_1440x960.png)      |
+| ![Mobile](/public/img/site-preview-mobile-dark_375x812.png) | ![Desktop](/public/img/site-preview-desktop-dark_1440x960.png) |
 
 INSERT A BRIEF DESCRIPTION OF THE PROJECT
 
@@ -49,7 +49,7 @@ INSERT LIST OF PROJECT FEATURES
 
 ## Development Workflow
 
-[![Network Graph](./assets/img/network-graph.png)](https://github.com/CodingWithJiro/REPO_NAME/network)
+[![Network Graph](/public/img/network-graph.png)](https://github.com/CodingWithJiro/REPO_NAME/network)
 
 > Click to view the full branch and merge history
 
@@ -99,9 +99,9 @@ Or you can check out the **[live website here](LINK)**
 
 ## Performance Report
 
-[![Lighthouse Report Preview](./assets/img/lighthouse-report.png)](./assets/downloads/lighthouse-performance-report.pdf)
+[![Lighthouse Report Preview](/public/img/lighthouse-report.png)](./assets/downloads/lighthouse-performance-report.pdf)
 
-A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](./assets/downloads/lighthouse-performance-report.pdf)**.
+A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](/docs/downloads/lighthouse-performance-report.pdf)**.
 
 ---
 
@@ -109,9 +109,9 @@ A **Google Lighthouse** audit was conducted on the final version of this project
 
 Created by **Elmar Chavez**
 
-Month/Year: **November 2025**
+Month/Year: **December 2025**
 
-Journey: **8<sup>th</sup>** month of learning _frontend web development_.
+Journey: **9<sup>th</sup>** month of learning _frontend web development_.
 
 <!--
 
