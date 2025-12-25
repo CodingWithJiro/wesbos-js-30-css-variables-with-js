@@ -1,5 +1,7 @@
+import Theme from "./components/Theme/Theme";
+
 const App = () => {
-  return <div>App</div>;
+  return <Theme />;
 };
 
 export default App;
